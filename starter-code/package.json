@@ -1,0 +1,29 @@
+{
+  "name": "lab7",
+  "version": "1.0.0",
+  "description": "lab-7",
+  "main": "server.js",
+  "scripts": {
+    "test": "no",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desertduane/07-nodejs-npm-express.git"
+  },
+  "keywords": [
+    "diablo",
+    "hearthstone",
+    "codefellows"
+  ],
+  "author": "duane-kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desertduane/07-nodejs-npm-express/issues"
+  },
+  "homepage": "https://github.com/desertduane/07-nodejs-npm-express#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
